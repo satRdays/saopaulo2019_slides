@@ -1,23 +1,23 @@
-# presentations-satRday-SP-2019
+# saopaulo2019_slides
 
 Esse repositório contém apresentações do evento satRday São Paulo 2019.
 
 **Apresentações:**
 
 - Slide de transição em HTML:
-https://beatrizmilz.github.io/presentations-satRday-SP-2019/slide-transicao.html
+https://satRdays.github.io/saopaulo2019_slides/slide-transicao.html
 
 
 - Slide de transição em PDF:
-https://beatrizmilz.github.io/presentations-satRday-SP-2019/slide-transicao.pdf
+https://satRdays.github.io/saopaulo2019_slides/slide-transicao.pdf
 
 
 - Slide de abertura em HTML:
-https://beatrizmilz.github.io/presentations-satRday-SP-2019/abertura-satrday-sp-2019.html
+https://satRdays.github.io/saopaulo2019_slides/abertura-satrday-sp-2019.html
 
 
 - Slide de abertura em PDF:
-https://beatrizmilz.github.io/presentations-satRday-SP-2019/abertura-satrday-sp-2019.pdf
+https://satRdays.github.io/saopaulo2019_slides/abertura-satrday-sp-2019.pdf
 
 
 Para converter em PDF, utilize:
