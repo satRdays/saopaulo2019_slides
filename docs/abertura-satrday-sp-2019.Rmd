@@ -212,6 +212,16 @@ class: slide, middle
 knitr::include_graphics("img/notebook.png")
 ```
 
+
+---
+class: slide, middle
+
+## Vamos nos conectar?
+<br>
+```{r echo=FALSE, fig.align='center', out.width="100%"}
+knitr::include_graphics("img/linkedin.PNG")
+```
+Fonte: [LinkedIn](https://help.linkedin.com/ci/fattach/get/9326454/0/filename/Find%20Nearby%20Best%20Practices.pdf)
 ---
 class: slide, middle
 
