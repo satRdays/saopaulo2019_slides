@@ -103,9 +103,13 @@ class: slide, middle
 ## Cronograma de hoje
 
 
+08:30 - 09:00  - Credenciamento e Welcome Coffee
+
 09:00 - 09:30 - Abertura
 
-09:30 - 10:30 - Palestras 
+09:30 - 09:50 - Seção Oral 1 - Palestras de 15 minutos
+
+09:50 - 10:30 - Lightning Talks - Palestras de 8 minutos
 
 10:30 - 11:00 - Coffee Break
 
@@ -113,7 +117,7 @@ class: slide, middle
 
 12:00 - 13:30 - Horário de almoço - Livre
 
-13:30 - 14:30 - Palestras 
+13:30 - 14:30 - Seção Oral 2 - Palestras de 15 minutos
 
 14:30 - 15:00 - Palestra de Convidado(a)
 
