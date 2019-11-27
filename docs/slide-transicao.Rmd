@@ -1,7 +1,7 @@
 ---
 title: "<img src= 'img/satrdaysp.png' width = '20%'></br>satRday São Paulo 2019"
 subtitle: "#satRdaySP"
-author: "<br> Patrocinadores: <br><img src= 'img/logos/Insper-positivo.png' width = '20%'>&nbsp;  &nbsp;<img src= 'img/logos/cursor1-41.png' width = '20%'>&nbsp; &nbsp; <img src= 'img/logos/clearsale-logo-rgb.png' width = '20%'>&nbsp; &nbsp; <img src= 'img/logos/logo_RED_Asset.jpg' width = '20%'> <br><br> <img src= 'img/logos/CONRE-3-LOGO-OFICIAL-safira.png' width = '20%'>&nbsp; &nbsp;<img src= 'img/logos/Marca_C6BANK_positivo.png' width = '20%'> "
+author: "<br> Patrocinadores: <br><img src= 'img/logos/Insper-positivo.png' width = '20%'>&nbsp;  &nbsp;<img src= 'img/logos/cursor1-41.png' width = '20%'>&nbsp; &nbsp; <img src= 'img/logos/clearsale-logo-rgb.png' width = '20%'>&nbsp; &nbsp; <img src= 'img/logos/logo_RED_Asset.jpg' width = '20%'> <br><br> <img src= 'img/logos/CONRE-3-LOGO-OFICIAL-safira.png' width = '20%'>&nbsp; &nbsp;<img src= 'img/logos/Marca_C6BANK_positivo.png' width = '20%'>&nbsp; &nbsp;<img src= 'img/logos/oracle-logo-1.png' width = '20%'> "
 output:
   xaringan::moon_reader:
     lib_dir: libs

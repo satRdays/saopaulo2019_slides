@@ -102,7 +102,30 @@ class: slide, middle
 
 ## Cronograma de hoje
 
-Em breve
+
+09:00 - 09:30 - Abertura
+
+09:30 - 10:30 - Palestras 
+
+10:30 - 11:00 - Coffee Break
+
+11:00 - 12:00 - Mesa redonda: Comunidades
+
+12:00 - 13:30 - Horário de almoço - Livre
+
+13:30 - 14:30 - Palestras 
+
+14:30 - 15:00 - Palestra de Convidado(a)
+
+15:00 - 15:30 - Coffee Break
+
+15:30 - 16:30 - Palestra de Convidado(a)
+
+16:30 - 16:45 - Encerramento
+
+Apresentações em: https://github.com/satRdays/saopaulo2019_slides
+
+
 ---
 class: slide, middle
 
@@ -121,12 +144,12 @@ class: slide, middle
 
 ### Financeiro
 
-```{r echo=FALSE, fig.align='center', out.width="50%"}
+```{r echo=FALSE, fig.align='center', out.width="45%"}
 knitr::include_graphics("img/logos/cursor1-41.png")
 ```
 
 <br><br>
-```{r echo=FALSE, fig.align='center', out.width="50%"}
+```{r echo=FALSE, fig.align='center', out.width="45%"}
 knitr::include_graphics("img/logos/clearsale-logo-rgb.png")
 ```
 
@@ -159,6 +182,10 @@ class: slide, middle
 knitr::include_graphics("img/logos/CONRE-3-LOGO-OFICIAL-safira.png")
 ```
 
+<br><br>
+```{r echo=FALSE, fig.align='center', out.width="50%"}
+knitr::include_graphics("img/logos/oracle-logo-1.png")
+```
 ---
 class: slide, middle
 
@@ -174,6 +201,16 @@ class: slide, middle
 - Qualquer pessoa que viole estas regras pode ser advertida ou expulsa da conferência (sem reembolso), conforme critérios dos organizadores da conferência. 
 
 Saiba mais em: https://saopaulo2019.satrdays.org/codigodeconduta/
+
+---
+class: slide, middle
+
+## Cuide dos seus pertences :) 
+
+<br><br>
+```{r echo=FALSE, fig.align='center', out.width="50%"}
+knitr::include_graphics("img/notebook.png")
+```
 
 ---
 class: slide, middle
