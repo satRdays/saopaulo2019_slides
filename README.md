@@ -28,7 +28,7 @@ Esse repositório contém apresentações do evento satRday São Paulo 2019.
 
 ### Lightning talks:
 
-- Ianní Welba Muliterno Bezerra - Projeto em Shiny para aplicação de testes A/B bayesianos
+- Ianní Muliterno - Projeto em Shiny para aplicação de testes A/B bayesianos
 
 - João Henrique de Araujo Morais - rtabnetsp: Pacote R para Extração e Tratamento de Dados de Indicadores Saúde de São Paulo
 
