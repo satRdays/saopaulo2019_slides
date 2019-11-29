@@ -13,7 +13,7 @@ layout: true
   
 <div class="my-footer"><span>
 
-Twitter: https://twitter.com/satRdaySP  | Utilize a hashtag: #satRdaySP
+Twitter: twitter.com/satRdaySP  | Utilize a hashtag: #satRdaySP | Apresentações em: bit.ly/satRdaySP
 
 
 </span></div> 
@@ -46,6 +46,10 @@ class: slide, middle
 + Os eventos são sempre organizados com o envolvimento da comunidade local.
 ]
 
+---
+class: slide 
+
+background-image: url(img/photogrid_4-3.jpg)
 
 ---
 class: slide, middle 
@@ -95,39 +99,6 @@ knitr::include_graphics(c(
                           "img/team/renatahirota.jpg",
                           "img/team/william.jpg"))
 ```
-
-
----
-class: slide, middle
-
-## Cronograma de hoje
-
-
-08:30 - 09:00  - Credenciamento e Welcome Coffee
-
-09:00 - 09:30 - Abertura
-
-09:30 - 09:50 - Seção Oral 1 - Palestras de 15 minutos
-
-09:50 - 10:30 - Lightning Talks - Palestras de 8 minutos
-
-10:30 - 11:00 - Coffee Break
-
-11:00 - 12:00 - Mesa redonda: Comunidades
-
-12:00 - 13:30 - Horário de almoço - Livre
-
-13:30 - 14:30 - Seção Oral 2 - Palestras de 15 minutos
-
-14:30 - 15:00 - Palestra de Convidado(a)
-
-15:00 - 15:30 - Coffee Break
-
-15:30 - 16:30 - Palestra de Convidado(a)
-
-16:30 - 16:45 - Encerramento
-
-Apresentações em: https://github.com/satRdays/saopaulo2019_slides
 
 
 ---
@@ -190,6 +161,51 @@ knitr::include_graphics("img/logos/CONRE-3-LOGO-OFICIAL-safira.png")
 ```{r echo=FALSE, fig.align='center', out.width="50%"}
 knitr::include_graphics("img/logos/oracle-logo-1.png")
 ```
+
+
+---
+class: slide, middle
+
+## Cronograma de hoje
+
+
+08:30 - 09:00  - Credenciamento e Welcome Coffee
+
+09:00 - 09:30 - Abertura
+
+09:30 - 09:50 - Seção Oral 1 - Palestras de 15 minutos
+
+09:50 - 10:30 - Lightning Talks - Palestras de 8 minutos
+
+10:30 - 11:00 - Coffee Break
+
+11:00 - 12:00 - Mesa redonda: Comunidades
+
+12:00 - 13:30 - Horário de almoço - Livre
+
+13:30 - 14:30 - Seção Oral 2 - Palestras de 15 minutos
+
+14:30 - 15:00 - Palestra de Convidado(a)
+
+15:00 - 15:30 - Coffee Break
+
+15:30 - 16:30 - Palestra de Convidado(a)
+
+16:30 - 16:45 - Encerramento
+
+Apresentações em: [bit.ly/satRdaySP](http://bit.ly/satRdaySP)
+
+---
+class: slide, middle
+
+## Sorteio dos brindes!
+
+- Após os horários de coffe e de almoço, e ao final do evento.
+
+- Camisetas, livro, óculos, fones de ouvido.
+
+- Caso não esteja presente, o item será sorteado novamente!
+
 ---
 class: slide, middle
 
@@ -222,10 +238,11 @@ class: slide, middle
 
 ## Vamos nos conectar?
 <br>
-```{r echo=FALSE, fig.align='center', out.width="100%"}
-knitr::include_graphics("img/linkedin.PNG")
+```{r echo=FALSE, fig.align='center', out.width="30%"}
+knitr::include_graphics("img/linkedin2.jpg")
 ```
-Fonte: [LinkedIn](https://help.linkedin.com/ci/fattach/get/9326454/0/filename/Find%20Nearby%20Best%20Practices.pdf)
+
+
 ---
 class: slide, middle
 
@@ -247,15 +264,17 @@ class: slide, middle
 
 
 
----
-class: slide 
 
-background-image: url(img/photogrid_4-3.jpg)
 
 ---
 class: contact, middle
 
+# Bom evento!!
+
 
 # Contato 
 
-## satrdaysp@gmail.com
+### Email: **satrdaysp@gmail.com**
+
+
+### Twitter: **twitter.com/satRdaySP**
