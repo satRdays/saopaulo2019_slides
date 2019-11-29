@@ -25,7 +25,7 @@ options(htmltools.dir.version = FALSE)
 ---
 class: slide , middle, center
 
-## Equipe organizadora
+## Agradecimentos - Equipe organizadora
 
 ```{r echo=FALSE, fig.align='default', out.width="16%"}
 knitr::include_graphics(c("img/team/adrianareis.jpg", 
@@ -53,10 +53,35 @@ knitr::include_graphics(c("img/team/adrianareis.jpg",
 ---
 class: slide, middle, center
 
-## Patrocinadores
+## Agradecimentos - Patrocinadores
 
 <br><img src= 'img/logos/Insper-positivo.png' width = '30%'>&nbsp;  &nbsp;<img src= 'img/logos/cursor1-41.png' width = '30%'>&nbsp; &nbsp; <img src= 'img/logos/clearsale-logo-rgb.png' width = '30%'><br><br> <img src= 'img/logos/CONRE-3-LOGO-OFICIAL-safira.png' width = '30%'>&nbsp; &nbsp;<img src= 'img/logos/Marca_C6BANK_positivo.png' width = '30%'>&nbsp; &nbsp;<img src= 'img/logos/oracle-logo-1.png' width = '30%'><br><br> &nbsp; &nbsp; <img src= 'img/logos/logo_RED_Asset.jpg' width = '30%'> 
 
+---
+class: slide, middle, center
+
+## Agradecimentos - Palestrantes!
+
+```{r echo=FALSE, fig.align='default', out.width="19%"}
+knitr::include_graphics(
+  c(
+    "img/team/beamilz.jpg",
+    "img/team/brunaw.jpg",
+    "img/team/danielfalbel.jpg",
+    "img/team/haydee.jpg",
+    "img/team/hedibert.jpg",
+    "img/team/ianni.jpg",
+    "img/team/joaomorais.jpg",
+    "img/team/josejesus.jpg",
+    "img/team/juliotrecenti.jpg",
+    "img/team/leonardo.jpg",
+    "img/team/marceloventura.jpg",
+    "img/team/mariamarinho.jpg",
+    "img/team/rodolfo.jpg",
+    "img/team/tiagomendonca.jpg"
+  )
+)
+```
 
 ---
 class: slide, middle, center
@@ -93,7 +118,12 @@ class: slide, middle
 
 - The Carpentries - [Website](https://carpentries.org/), [Twitter](https://twitter.com/thecarpentries), [Facebook](https://www.facebook.com/carpentries/), [LinkedIn](https://www.linkedin.com/company/the-carpentries/), [Slack](https://swc-slack-invite.herokuapp.com/)
 
+---
+class: slide, middle, center
 
+## Confraternização pós satRday:
+
+- EM BREVE
 ---
 class: slide, middle, center
 
