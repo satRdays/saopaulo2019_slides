@@ -1,0 +1,120 @@
+---
+title: "<img src= 'img/satrdaysp.png' width = '40%'></br></br>satRday São Paulo"
+subtitle: "#satRdaySP"
+author: "30 de Novembro de 2019"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["custom.css", "slides.css", "footer.css"]
+    includes:
+      after_body: insert-logo.html
+---
+layout: true
+  
+<div class="my-footer"><span>
+
+Twitter: twitter.com/satRdaySP  | Utilize a hashtag: #satRdaySP | Apresentações em: bit.ly/satRdaySP
+
+
+</span></div> 
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+---
+class: slide , middle, center
+
+## Equipe organizadora
+
+```{r echo=FALSE, fig.align='default', out.width="16%"}
+knitr::include_graphics(c("img/team/adrianareis.jpg", 
+                          "img/team/angelica.jpg",
+                          "img/team/beamilz.jpg",
+                          "img/team/brunaw.jpg",
+                          "img/team/clente.jpg",
+                          "img/team/danielfalbel.jpg",
+                          "img/team/fernandafortti.jpg", 
+                          "img/team/gabrielacaesar.jpg",
+                           "img/team/gabrielz.jpg",
+                          "img/team/josejesus.jpg",
+                          "img/team/juliotrecenti.jpg",
+                          "img/team/leticiathomaz.jpg",
+                          "img/team/mariguilardi.jpg",
+                          "img/team/nathdemetrio.jpg",
+                          "img/team/renatahirota.jpg",
+                          "img/team/william.jpg"))
+```
+
+
+
+
+
+---
+class: slide, middle, center
+
+## Patrocinadores
+
+<br><img src= 'img/logos/Insper-positivo.png' width = '30%'>&nbsp;  &nbsp;<img src= 'img/logos/cursor1-41.png' width = '30%'>&nbsp; &nbsp; <img src= 'img/logos/clearsale-logo-rgb.png' width = '30%'><br><br> <img src= 'img/logos/CONRE-3-LOGO-OFICIAL-safira.png' width = '30%'>&nbsp; &nbsp;<img src= 'img/logos/Marca_C6BANK_positivo.png' width = '30%'>&nbsp; &nbsp;<img src= 'img/logos/oracle-logo-1.png' width = '30%'><br><br> &nbsp; &nbsp; <img src= 'img/logos/logo_RED_Asset.jpg' width = '30%'> 
+
+
+---
+class: slide, middle, center
+
+## Confira as apresentações!
+
+
+### [bit.ly/satRdaySP](http://bit.ly/satRdaySP)
+
+
+
+
+---
+class: slide, middle
+
+## Para saber mais 
+
+
+
+### - satRday 
+
+- Como organizar o satRday em outras cidades?
+
++ satRday : https://satrdays.org/ 
+
++ Base de conhecimento : https://knowledgebase.satrdays.org/
+
+
+### - Outras comunidades
+
+- R-Ladies São Paulo - [Twitter](https://twitter.com/RLadiesSaoPaulo), [GitHub](https://github.com/rladies/meetup-presentations_sao-paulo), [Meetup](https://www.meetup.com/R-Ladies-Sao-Paulo), [Instagram](http://instagram.com/RLadiesSaoPaulo), [Facebook](http://facebook.com/RLadiesSaoPaulo)
+
+- R Brasil Telegram - [Telegram](https://t.me/rbrasiloficial)
+
+- The Carpentries - [Website](https://carpentries.org/), [Twitter](https://twitter.com/thecarpentries), [Facebook](https://www.facebook.com/carpentries/), [LinkedIn](https://www.linkedin.com/company/the-carpentries/), [Slack](https://swc-slack-invite.herokuapp.com/)
+
+
+---
+class: slide, middle, center
+
+## Sorteio final!
+
+---
+class: slide, middle, center
+
+## Vamos tirar uma foto após a apresentação!
+
+
+
+---
+class: contact, middle
+
+# Nos vemos em 2020!
+
+
+# Contato 
+
+### Email: **satrdaysp@gmail.com**
+
+
+### Twitter: **twitter.com/satRdaySP**
