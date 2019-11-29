@@ -50,12 +50,7 @@ knitr::include_graphics(c("img/team/adrianareis.jpg",
 
 
 
----
-class: slide, middle, center
 
-## Agradecimentos - Patrocinadores
-
-<br><img src= 'img/logos/Insper-positivo.png' width = '30%'>&nbsp;  &nbsp;<img src= 'img/logos/cursor1-41.png' width = '30%'>&nbsp; &nbsp; <img src= 'img/logos/clearsale-logo-rgb.png' width = '30%'><br><br> <img src= 'img/logos/CONRE-3-LOGO-OFICIAL-safira.png' width = '30%'>&nbsp; &nbsp;<img src= 'img/logos/Marca_C6BANK_positivo.png' width = '30%'>&nbsp; &nbsp;<img src= 'img/logos/oracle-logo-1.png' width = '30%'><br><br> &nbsp; &nbsp; <img src= 'img/logos/logo_RED_Asset.jpg' width = '30%'> 
 
 ---
 class: slide, middle, center
@@ -83,6 +78,13 @@ knitr::include_graphics(
 )
 ```
 
+
+---
+class: slide, middle, center
+
+## Agradecimentos - Patrocinadores
+
+<br><img src= 'img/logos/Insper-positivo.png' width = '30%'>&nbsp;  &nbsp;<img src= 'img/logos/cursor1-41.png' width = '30%'>&nbsp; &nbsp; <img src= 'img/logos/clearsale-logo-rgb.png' width = '30%'><br><br> <img src= 'img/logos/CONRE-3-LOGO-OFICIAL-safira.png' width = '30%'>&nbsp; &nbsp;<img src= 'img/logos/Marca_C6BANK_positivo.png' width = '30%'>&nbsp; &nbsp;<img src= 'img/logos/oracle-logo-1.png' width = '30%'><br><br> &nbsp; &nbsp; <img src= 'img/logos/logo_RED_Asset.jpg' width = '30%'> 
 ---
 class: slide, middle, center
 
@@ -123,7 +125,7 @@ class: slide, middle, center
 
 ## Confraternização pós satRday:
 
-- EM BREVE
+EM BREVE
 ---
 class: slide, middle, center
 
