@@ -9,9 +9,9 @@ Esse repositório contém apresentações do evento satRday São Paulo 2019.
 
 ### Palestrantes convidados(as):
 
--  Bruna Wundervald
+- [Bruna Wundervald - O tidyverse para Aprendizado de Máquina](http://brunaw.com/slides/satrday-sp/tidyverse-para-AM.html#1)
 
-- Tiago Mendonça
+- [Tiago Mendonça - Uma Aplicação de MDS ao Mercado Automotivo](https://tiagomendonca.github.io/satrday19/#1)
 
 - [Daniel Falbel - TensorFlow 2.0 no R](https://dfalbel.github.io/talks/2019-11-satrday)
 
@@ -22,7 +22,7 @@ Esse repositório contém apresentações do evento satRday São Paulo 2019.
 
 - [Marcelo Ventura Freire - Documentos Reprodutíveis em R Markdown como Forma de Autodocumentação do Processo de Produção de Conteúdo](https://satrdays.github.io/saopaulo2019_slides//slides_talks/marcelo_ventura.html#1) - [Código](https://github.com/zyxdef/DoctoReprodutRMarkdown)
 
-- Rodolfo Augusto de Araujo Almeida - Como descobrimos que o governo Bolsonaro privilegia Record e SBT nos gastos com propaganda televisiva
+- [Rodolfo Augusto de Araujo Almeida - Como descobrimos que o governo Bolsonaro privilegia Record e SBT nos gastos com propaganda televisiva](https://docs.google.com/presentation/d/1my3IDNKiR-nick4QKGdtqRQnymap_xMuGzjn_ywGOiM/edit?usp=sharing)
 
 
 
@@ -39,13 +39,13 @@ Esse repositório contém apresentações do evento satRday São Paulo 2019.
 
 ### Mesa redonda - Comunidades:
 
-- Haydee Svab - R-Ladies São Paulo 
+- Haydee Svab - R-Ladies São Paulo - Não teve apresentação com slides
 
 - [Beatriz Milz - The Carpentries](https://beatrizmilz.github.io/slides_satRday_Carpentries/)
 
-- Marcelo Ventura - R Brasil
+- Marcelo Ventura - R Brasil - Não teve apresentação com slides
 
-- Hedibert Lopes - Comunidade acadêmica
+- Hedibert Lopes - Comunidade acadêmica - Não teve apresentação com slides
 
 
 ## Apresentações do evento:
