@@ -30,7 +30,7 @@ Esse repositório contém apresentações do evento satRday São Paulo 2019.
 
 - [Ianní Muliterno - Projeto em Shiny para aplicação de testes A/B bayesianos](https://github.com/satRdays/saopaulo2019_slides/blob/master/docs/slides_talks/ianni_multiterno.pdf)
 
-- João Henrique de Araujo Morais - rtabnetsp: Pacote R para Extração e Tratamento de Dados de Indicadores Saúde de São Paulo
+- [João Henrique de Araujo Morais - rtabnetsp: Pacote R para Extração e Tratamento de Dados de Indicadores Saúde de São Paulo](https://docs.google.com/presentation/d/1lRmWKIH_dlOLyoRSv4piO-t_JOK8p29tNvUHmEBdm1s/edit?usp=sharing)
 
 - [Leonardo Goes Shibata - Transparência e reprodutibilidade de consultorias na área da saúde com o R](https://leonardoshibata.github.io/satRday-2019/)
 
