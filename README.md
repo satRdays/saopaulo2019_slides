@@ -28,7 +28,7 @@ Esse repositório contém apresentações do evento satRday São Paulo 2019.
 
 ### Lightning talks:
 
-- Ianní Muliterno - Projeto em Shiny para aplicação de testes A/B bayesianos
+- [Ianní Muliterno - Projeto em Shiny para aplicação de testes A/B bayesianos](https://github.com/satRdays/saopaulo2019_slides/blob/master/docs/slides_talks/ianni_multiterno.pdf)
 
 - João Henrique de Araujo Morais - rtabnetsp: Pacote R para Extração e Tratamento de Dados de Indicadores Saúde de São Paulo
 
@@ -39,13 +39,13 @@ Esse repositório contém apresentações do evento satRday São Paulo 2019.
 
 ### Mesa redonda - Comunidades:
 
-- Haydee Svab - R-Ladies São Paulo - Não teve apresentação com slides
+- Haydee Svab - R-Ladies São Paulo - *Não teve apresentação com slides*
 
 - [Beatriz Milz - The Carpentries](https://beatrizmilz.github.io/slides_satRday_Carpentries/)
 
-- Marcelo Ventura - R Brasil - Não teve apresentação com slides
+- Marcelo Ventura - R Brasil - *Não teve apresentação com slides*
 
-- Hedibert Lopes - Comunidade acadêmica - Não teve apresentação com slides
+- Hedibert Lopes - Comunidade acadêmica - *Não teve apresentação com slides*
 
 
 ## Apresentações do evento:
