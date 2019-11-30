@@ -32,7 +32,7 @@ Esse repositório contém apresentações do evento satRday São Paulo 2019.
 
 - João Henrique de Araujo Morais - rtabnetsp: Pacote R para Extração e Tratamento de Dados de Indicadores Saúde de São Paulo
 
-- Leonardo Goes Shibata - Transparência e reprodutibilidade de consultorias na área da saúde com o R
+- [Leonardo Goes Shibata - Transparência e reprodutibilidade de consultorias na área da saúde com o R](https://leonardoshibata.github.io/satRday-2019/)
 
 - Maria Marinho - Do SQL para o R utilizando o pacote dplyr
 
