@@ -22,7 +22,7 @@ Esse repositório contém apresentações do evento satRday São Paulo 2019.
 
 - [Marcelo Ventura Freire - Documentos Reprodutíveis em R Markdown como Forma de Autodocumentação do Processo de Produção de Conteúdo](https://satrdays.github.io/saopaulo2019_slides//slides_talks/marcelo_ventura.html#1) - [Código](https://github.com/zyxdef/DoctoReprodutRMarkdown)
 
-- Rodolfo Augusto de Araujo Almeida - Como descobrimos que o governo Bolsonaro privilegia Record e SBT nos gastos com propaganda televisiva
+- [Rodolfo Augusto de Araujo Almeida - Como descobrimos que o governo Bolsonaro privilegia Record e SBT nos gastos com propaganda televisiva](https://docs.google.com/presentation/d/1my3IDNKiR-nick4QKGdtqRQnymap_xMuGzjn_ywGOiM/edit?usp=sharing)
 
 
 
