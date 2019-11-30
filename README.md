@@ -9,7 +9,7 @@ Esse repositório contém apresentações do evento satRday São Paulo 2019.
 
 ### Palestrantes convidados(as):
 
--  Bruna Wundervald
+- [Bruna Wundervald - O tidyverse para Aprendizado de Máquina](http://brunaw.com/slides/satrday-sp/tidyverse-para-AM.html#1)
 
 - Tiago Mendonça
 
@@ -39,13 +39,13 @@ Esse repositório contém apresentações do evento satRday São Paulo 2019.
 
 ### Mesa redonda - Comunidades:
 
-- Haydee Svab - R-Ladies São Paulo 
+- Haydee Svab - R-Ladies São Paulo - Não teve apresentação com slides
 
 - [Beatriz Milz - The Carpentries](https://beatrizmilz.github.io/slides_satRday_Carpentries/)
 
-- Marcelo Ventura - R Brasil
+- Marcelo Ventura - R Brasil - Não teve apresentação com slides
 
-- Hedibert Lopes - Comunidade acadêmica
+- Hedibert Lopes - Comunidade acadêmica - Não teve apresentação com slides
 
 
 ## Apresentações do evento:
