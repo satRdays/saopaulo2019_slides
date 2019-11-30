@@ -48,6 +48,22 @@ Esse repositório contém apresentações do evento satRday São Paulo 2019.
 - Hedibert Lopes - Comunidade acadêmica - *Não teve apresentação com slides*
 
 
+### Links das comunidades
+
+- satRdays: - Como organizar o satRday em outras cidades?
+  + satRday : https://satrdays.org/ 
+  + Base de conhecimento : https://knowledgebase.satrdays.org/
+  
+  
+-  diveRsidadeBR Telegram - [Telegram](https://t.me/diveRsidadeBR)
+  
+- R-Ladies São Paulo - [Twitter](https://twitter.com/RLadiesSaoPaulo), [GitHub](https://github.com/rladies/meetup-presentations_sao-paulo), [Meetup](https://www.meetup.com/R-Ladies-Sao-Paulo), [Instagram](http://instagram.com/RLadiesSaoPaulo), [Facebook](http://facebook.com/RLadiesSaoPaulo)
+
+- R Brasil Telegram - [Telegram](https://t.me/rbrasiloficial)
+
+- The Carpentries - [Website](https://carpentries.org/), [Twitter](https://twitter.com/thecarpentries), [Facebook](https://www.facebook.com/carpentries/), [LinkedIn](https://www.linkedin.com/company/the-carpentries/), [Slack](https://swc-slack-invite.herokuapp.com/)
+
+
 ## Apresentações do evento:
 
 - Slide de transição: em [HTML](https://satRdays.github.io/saopaulo2019_slides/slide-transicao.html) e [PDF](https://satRdays.github.io/saopaulo2019_slides/slide-transicao.pdf).
