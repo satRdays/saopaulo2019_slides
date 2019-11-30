@@ -13,7 +13,7 @@ Esse repositório contém apresentações do evento satRday São Paulo 2019.
 
 - Tiago Mendonça
 
-- Daniel Falbel - TensorFlow 2.0 no R
+- [Daniel Falbel - TensorFlow 2.0 no R](https://dfalbel.github.io/talks/2019-11-satrday)
 
 ### Seção Oral:
 - [José de Jesus Filho - Criando um motor de busca com R, Shiny e PostgreSQL](https://jjesusfilho.github.io/FullTextSearch/)
