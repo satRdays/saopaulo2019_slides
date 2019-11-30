@@ -20,7 +20,7 @@ Esse repositório contém apresentações do evento satRday São Paulo 2019.
 
 - [Julio Trecenti - auth0: autenticação em shiny apps](https://jtrecenti.github.io/slides/satrday/)
 
-- Marcelo Ventura Freire - Documentos Reprodutíveis em R Markdown como Forma de Autodocumentação do Processo de Produção de Conteúdo
+- [Marcelo Ventura Freire - Documentos Reprodutíveis em R Markdown como Forma de Autodocumentação do Processo de Produção de Conteúdo](https://satrdays.github.io/saopaulo2019_slides//slides_talks/marcelo_ventura.html#1) - [Código](https://github.com/zyxdef/DoctoReprodutRMarkdown)
 
 - Rodolfo Augusto de Araujo Almeida - Como descobrimos que o governo Bolsonaro privilegia Record e SBT nos gastos com propaganda televisiva
 
