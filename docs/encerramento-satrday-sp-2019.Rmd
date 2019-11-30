@@ -123,15 +123,24 @@ class: slide, middle
 ---
 class: slide, middle
 
+## Vamos nos conectar?
+<br>
+```{r echo=FALSE, fig.align='center', out.width="30%"}
+knitr::include_graphics("img/linkedin2.jpg")
+```
+
+
+
+---
+class: slide, middle
+
 ## Confraternização pós satRday:
 
-- **Açaí Original**
+- **Açaí Original** - Rua Fiandeiras, 429 - Vila Olímpia
 
-Rua Fiandeiras, 429 - Vila Olímpia, São Paulo - SP, 04545-000
-
-(11) 3045-0505
-
-https://maps.app.goo.gl/YWPNw2sCkaFXXYb18
+```{r echo=FALSE, fig.align='center', out.width="60%"}
+knitr::include_graphics("img/acai.PNG")
+```
 
 
 ---
