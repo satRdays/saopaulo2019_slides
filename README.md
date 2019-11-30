@@ -11,7 +11,7 @@ Esse repositório contém apresentações do evento satRday São Paulo 2019.
 
 - [Bruna Wundervald - O tidyverse para Aprendizado de Máquina](http://brunaw.com/slides/satrday-sp/tidyverse-para-AM.html#1)
 
-- Tiago Mendonça
+- [Tiago Mendonça - Uma Aplicação de MDS ao Mercado Automotivo](https://tiagomendonca.github.io/satrday19/#1)
 
 - [Daniel Falbel - TensorFlow 2.0 no R](https://dfalbel.github.io/talks/2019-11-satrday)
 
