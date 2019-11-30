@@ -41,7 +41,7 @@ Esse repositório contém apresentações do evento satRday São Paulo 2019.
 
 - Haydee Svab - R-Ladies São Paulo 
 
-- Beatriz Milz - The Carpentries
+- [Beatriz Milz - The Carpentries](https://beatrizmilz.github.io/slides_satRday_Carpentries/)
 
 - Marcelo Ventura - R Brasil
 
