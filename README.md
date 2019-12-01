@@ -34,7 +34,7 @@ Esse repositório contém apresentações do evento satRday São Paulo 2019.
 
 - [Leonardo Goes Shibata - Transparência e reprodutibilidade de consultorias na área da saúde com o R](https://leonardoshibata.github.io/satRday-2019/)
 
-- Maria Marinho - Do SQL para o R utilizando o pacote dplyr
+- [Maria Marinho - Do SQL para o R utilizando o pacote dplyr](http://bit.ly/satRdaySP_SQL_R)
 
 
 ### Mesa redonda - Comunidades:
